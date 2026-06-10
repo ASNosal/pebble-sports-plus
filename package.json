@@ -1,7 +1,7 @@
 {
-  "name": "pebble-sports",
+  "name": "pebble-sports-plus",
   "author": "Catalyst Studios",
-  "version": "0.3",
+  "version": "0.3.0",
   "keywords": [
     "pebble-app",
     "sports"
@@ -11,7 +11,7 @@
     "pebble-clay": "^1.0.4"
   },
   "pebble": {
-    "displayName": "Sports",
+    "displayName": "Sports Plus",
     "uuid": "f05a5171-08e2-4124-94da-81c8d4fe3084",
     "sdkVersion": "3",
     "enableMultiJS": true,
@@ -22,7 +22,9 @@
       "aplite",
       "basalt",
       "chalk",
-      "diorite"
+      "diorite",
+      "flint",
+      "emery"
     ],
     "watchapp": {
       "watchface": false
